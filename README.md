@@ -176,4 +176,21 @@ cluster8
 cluster9
 >![image](https://user-images.githubusercontent.com/65420132/173414849-b27ecc3a-d898-4c2d-a9ed-aa3a1a08411e.png)
 
+# Бонусное задания
+
+cluster0
+>![image](https://user-images.githubusercontent.com/65420132/173433113-e790e50b-678c-4eb9-a544-cf8a7e24ba3a.png)
+
+cluster1
+>![image](https://user-images.githubusercontent.com/65420132/173433707-4eb9cf85-c942-4546-8f86-49328cb3463b.png)
+
+
+cluster2
+>![image](https://user-images.githubusercontent.com/65420132/173433197-fb7bc8fc-e460-4f1d-84e9-c5308dc47cd2.png)
+
+cluster3
+>![image](https://user-images.githubusercontent.com/65420132/173433422-9e539ca5-9da2-4484-ab8f-db7231fc1033.png)
+
+clustr4
+>![image](https://user-images.githubusercontent.com/65420132/173433597-56a1d892-1711-4d6d-98d8-c7de36232902.png)
 
