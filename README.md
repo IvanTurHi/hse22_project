@@ -56,6 +56,8 @@ Aerococcus viridans
 ![image](https://user-images.githubusercontent.com/65420132/173388296-b59e4f0f-0b5b-4ee9-ba75-5dd718239b5e.png)
 
 # информацией по выбранным кластерам
+Всего было отобрано 10 кластеров, здесь представлены данные по пяти
+
 Cluster 0  
 Количество генов в класетере -- 4
 | cluster| Species | Gene | Z-score  | function | position |
