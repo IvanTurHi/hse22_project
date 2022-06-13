@@ -58,7 +58,7 @@ Aerococcus viridans
 ![image](https://user-images.githubusercontent.com/65420132/173388296-b59e4f0f-0b5b-4ee9-ba75-5dd718239b5e.png)
 
 # информацией по выбранным кластерам
-Всего было отобрано 10 кластеров, здесь представлены данные по пяти
+Всего было отобрано 10 кластеров, здесь представлены данные по пят
 
 Cluster 0  
 Количество генов в класетере -- 4
@@ -177,6 +177,7 @@ cluster9
 >![image](https://user-images.githubusercontent.com/65420132/173414849-b27ecc3a-d898-4c2d-a9ed-aa3a1a08411e.png)
 
 # Бонусное задания
+Для поиска квадруплексов воспользуемся прошлогодними наработками, когда решалась аналогичная задача(колаб).
 
 cluster0
 >![image](https://user-images.githubusercontent.com/65420132/173433113-e790e50b-678c-4eb9-a544-cf8a7e24ba3a.png)
