@@ -134,21 +134,21 @@ cluster4
 
 # Визуализация расположения участков Z-DNA для каждого выбранного кластера
 cluster0
->![image](https://user-images.githubusercontent.com/65420132/173411572-bdc67274-063b-4528-9085-dc442c3625a6.png)
->![image](https://user-images.githubusercontent.com/65420132/173411833-337197ee-bd44-40c8-a7fe-c8f9ef87a28a.png)
->![image](https://user-images.githubusercontent.com/65420132/173411858-2e0eb08f-e399-4824-989d-45579deacb6d.png)
->![image](https://user-images.githubusercontent.com/65420132/173411892-8c6048f4-ffea-4da2-b8cb-4c0d7f1e0509.png)
->![image](https://user-images.githubusercontent.com/65420132/173411916-61021726-14b7-4c4e-a488-993f23e1f990.png)
+>![image](https://user-images.githubusercontent.com/65420132/173432683-c0e1aef4-132f-454f-a82c-1e48755496f6.png)
+>![image](https://user-images.githubusercontent.com/65420132/173432717-70c08d70-298a-4c40-8c35-451081315ab3.png)
+>![image](https://user-images.githubusercontent.com/65420132/173432740-41430ce7-eaa1-4c05-a16e-218a7b720c1b.png)
+>![image](https://user-images.githubusercontent.com/65420132/173432763-f7307d53-f3f0-4854-ba02-9cb99d624e93.png)
+>![image](https://user-images.githubusercontent.com/65420132/173432779-c88a2586-9299-47aa-a160-c2e048dc9508.png)
 
 cluster1
->![image](https://user-images.githubusercontent.com/65420132/173411682-f998fb2d-242d-4cde-8cc7-1f3688d31508.png)
+>![image](https://user-images.githubusercontent.com/65420132/173432649-d67f84db-ac82-4e24-925e-e8df82a904cd.png)
 >![image](https://user-images.githubusercontent.com/65420132/173414231-6699fd0a-67e3-4946-9929-f317354ed9e9.png)
 >![image](https://user-images.githubusercontent.com/65420132/173414249-c363aedf-c4c6-453c-80f3-c9ba1580afb8.png)
 >![image](https://user-images.githubusercontent.com/65420132/173414270-b90f6c0d-28da-4eb4-b958-8e7757f55fd1.png)
 >![image](https://user-images.githubusercontent.com/65420132/173414293-0e4cab9a-80bb-44f1-a566-39c3908b4322.png)
 
 cluster2
->![image](https://user-images.githubusercontent.com/65420132/173411732-b1988d52-a497-43a9-a927-87ec16a74a7c.png)
+>![image](https://user-images.githubusercontent.com/65420132/173432605-9242ca9e-133d-483f-87e2-973f65ee5d1f.png)
 
 cluster3
 >![image](https://user-images.githubusercontent.com/65420132/173414335-0f1a5da0-340b-4325-a4a5-8719813de946.png)
