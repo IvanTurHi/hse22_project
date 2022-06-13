@@ -12,3 +12,19 @@ https://colab.research.google.com/drive/1SjvisjNq5Vme50D7ZgPM0zReqRakFI-y?usp=sh
 | GCF_001543175.1_ASM154317v1_genomic | Aerococcus urina | 1(полный геном) | 1974262 | 689 | 7431 | 86.675 | 1808|
 | GCF_001543245.1_ASM154324v1_genomic | Aerococcus urinaehominis | 1(полный геном) | 1831400 |1095 | 11691 | 87.547 | 1718 |
 | GCF_001543285.1_ASM154328v1_genomic | Aerococcus viridans | 1(полный геном) | 2199877 |1599 | 17273 | 83.898 | 2066 |
+
+# Гистограммы участков Z-ДНК
+Aerococcus urinaeequi
+>![image](https://user-images.githubusercontent.com/65420132/173385548-2102f18a-1103-4110-93b6-1a83896b662d.png)  
+
+Aerococcus christensenii
+>![image](https://user-images.githubusercontent.com/65420132/173385739-f0c67e80-63ea-464a-8b60-1069a8613de7.png)
+
+Aerococcus urina
+>![image](https://user-images.githubusercontent.com/65420132/173385781-4b500119-2460-4465-b8f1-a62db4c337aa.png)
+
+Aerococcus urinaehominis
+>![image](https://user-images.githubusercontent.com/65420132/173385823-9c38783b-1999-4e06-b323-19187a16703e.png)
+
+Aerococcus viridans
+>![image](https://user-images.githubusercontent.com/65420132/173385904-e8b9943a-0441-4e36-a9c0-7b02654659b1.png)
