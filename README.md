@@ -115,7 +115,7 @@ Cluster 4
 | 4 | Aerococcus viridans | WP_003143355.1 | 1647.56 | Clostridiales bacterium BAD-6 DNA-binding protein WhiA | gene |
 
 # множественное выравнивание
-Выравнивание производилась в программе MEGAX, полностью на экран не помещается, поэтому тут представлены частичные результаты для первых пяти кластеров, полное выравнивание для всех кластеров находится в папке alignment
+Выравнивание производилась в программе MEGAX, полностью на экран не помещается, поэтому тут представлены частичные результаты, полное выравнивание для всех кластеров находится в папке alignment
 
 сluster0
 >![image](https://user-images.githubusercontent.com/65420132/173405275-6357c120-e55b-439f-b198-68366135c222.png)
@@ -131,6 +131,22 @@ cluster3
 
 cluster4
 >![image](https://user-images.githubusercontent.com/65420132/173410485-01af8151-ab0c-4a7e-bf76-d2ffa347a950.png)
+
+cluster5
+>![image](https://user-images.githubusercontent.com/65420132/173434924-552f0b56-5ba3-43a9-ae48-3f6f51b8fe20.png)
+
+cluster6
+>![image](https://user-images.githubusercontent.com/65420132/173435000-4abc1475-6e66-433f-87ce-f6c599fdda33.png)
+
+cluster7
+>![image](https://user-images.githubusercontent.com/65420132/173435076-193816c4-06b3-481b-b3d1-ee55c0f11b48.png)
+
+cluster8
+>![image](https://user-images.githubusercontent.com/65420132/173435147-5c272e75-37a6-4eb1-b9e7-bf5226e825ef.png)
+
+cluster9
+>![image](https://user-images.githubusercontent.com/65420132/173435201-52422b25-784b-45f9-a4a3-5f22d40e0621.png)
+
 
 # Визуализация расположения участков Z-DNA для каждого выбранного кластера
 cluster0
