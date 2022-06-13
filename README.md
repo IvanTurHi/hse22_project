@@ -106,8 +106,28 @@ Cluster 4
 Количество генов в класетере -- 5
 | cluster| Species | Gene | Z-score  | function | position |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| 3 | Aerococcus urinaeequi | WP_016897946.1 | 785.56 | Clostridiales bacterium BAD-6 DNA-binding protein WhiA | promoter |
-| 3 | Aerococcus christensenii | WP_060777439.1	 | 8485.75 | Clostridiales bacterium BAD-6 DNA-binding protein WhiA | gene |
-| 3 | Aerococcus urina | WP_060778796.1 | 2752.44 | Clostridiales bacterium BAD-6 DNA-binding protein WhiA | gene |
-| 3 | Aerococcus urinaehominis |WP_067979171.1 | 13713.99 | Clostridiales bacterium BAD-6 DNA-binding protein WhiA | gene |
-| 3 | Aerococcus viridans | WP_003143355.1 | 1647.56 | Clostridiales bacterium BAD-6 DNA-binding protein WhiA | gene |
+| 4 | Aerococcus urinaeequi | WP_016897946.1 | 785.56 | Clostridiales bacterium BAD-6 DNA-binding protein WhiA | promoter |
+| 4 | Aerococcus christensenii | WP_060777439.1	 | 8485.75 | Clostridiales bacterium BAD-6 DNA-binding protein WhiA | gene |
+| 4 | Aerococcus urina | WP_060778796.1 | 2752.44 | Clostridiales bacterium BAD-6 DNA-binding protein WhiA | gene |
+| 4 | Aerococcus urinaehominis |WP_067979171.1 | 13713.99 | Clostridiales bacterium BAD-6 DNA-binding protein WhiA | gene |
+| 4 | Aerococcus viridans | WP_003143355.1 | 1647.56 | Clostridiales bacterium BAD-6 DNA-binding protein WhiA | gene |
+
+# множественное выравнивание
+Выравнивание производилась в программе MEGAX, полностью на экран не помещается, поэтому тут представлены частичные результаты для первых пяти кластеров, полное выравнивание для всех кластеров находится в папке alignment
+
+сluster0
+>![image](https://user-images.githubusercontent.com/65420132/173405275-6357c120-e55b-439f-b198-68366135c222.png)
+
+cluster1
+>![image](https://user-images.githubusercontent.com/65420132/173404189-dfcd65c1-3f8e-46b2-84a2-74fdd8140101.png)
+
+cluster2
+>![image](https://user-images.githubusercontent.com/65420132/173410058-306bbded-0fef-45ec-93a2-f1007ffe7f49.png)
+
+cluster3
+>![image](https://user-images.githubusercontent.com/65420132/173410251-4e88b7f9-39b7-406c-826a-fe947b5124c3.png)
+
+cluster4
+>![image](https://user-images.githubusercontent.com/65420132/173410485-01af8151-ab0c-4a7e-bf76-d2ffa347a950.png)
+
+
