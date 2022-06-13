@@ -55,3 +55,57 @@ Aerococcus viridans
 Гистограмма кластеров по количеству разных геном в кластере
 ![image](https://user-images.githubusercontent.com/65420132/173388296-b59e4f0f-0b5b-4ee9-ba75-5dd718239b5e.png)
 
+# информацией по выбранным кластерам
+Cluster 0  
+Количество генов в класетере -- 4
+| cluster| Species | Gene | Z-score  | function | position |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| 0 | Aerococcus urinaeequi | WP_004262563.1 | 966.86 | Binds the lower part of the 30S subunit head. Binds mRNA in the 70S ribosome, positioning it for translation | gene |
+| 0 | Aerococcus christensenii | WP_060776847.1 | 3089.67 | Binds the lower part of the 30S subunit head. Binds mRNA in the 70S ribosome, positioning it for translation | gene |
+| 0 | Aerococcus urina | WP_013668835.1 | 3424.99 | Binds the lower part of the 30S subunit head. Binds mRNA in the 70S ribosome, positioning it for translation | gene |
+| 0 | Aerococcus urinaehominis | WP_067978321.1	 | 40243.84 | Binds the lower part of the 30S subunit head. Binds mRNA in the 70S ribosome, positioning it for translation | gene |
+| 0 | Aerococcus viridans | WP_004262563.1 | 966.86 | Binds the lower part of the 30S subunit head. Binds mRNA in the 70S ribosome, positioning it for translation | gene |
+
+
+Cluster 1  
+Количество генов в класетере -- 5
+| cluster| Species | Gene | Z-score  | function | position |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| 1 | Aerococcus urinaeequi | WP_026465774.1 | 886.22 | The C-terminal tail plays a role in the affinity of the 30S P site for different tRNAs. Mutations that decrease this affinity are suppressed in the 70S ribosome | gene |
+| 1 | Aerococcus christensenii | WP_060776873.1	 | 5529.75 | The C-terminal tail plays a role in the affinity of the 30S P site for different tRNAs. Mutations that decrease this affinity are suppressed in the 70S ribosome | gene |
+| 1 | Aerococcus urina | WP_013668580.1	 | 2750.2 | The C-terminal tail plays a role in the affinity of the 30S P site for different tRNAs. Mutations that decrease this affinity are suppressed in the 70S ribosome | promotor |
+| 1 | Aerococcus urinaehominis | WP_067979319.1 | 50027.46 | The C-terminal tail plays a role in the affinity of the 30S P site for different tRNAs. Mutations that decrease this affinity are suppressed in the 70S ribosome | gene |
+| 1 | Aerococcus viridans | WP_004262670.1 | 886.22 | The C-terminal tail plays a role in the affinity of the 30S P site for different tRNAs. Mutations that decrease this affinity are suppressed in the 70S ribosome | gene |
+
+
+Cluster 2  
+Количество генов в класетере -- 5
+| cluster| Species | Gene | Z-score  | function | position |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| 2 | Aerococcus urinaeequi | WP_059348695.1 | 2143.65 | This protein is located at the 30S-50S ribosomal subunit interface. In the 70S ribosome it has been modeled to make two contacts with the 16S rRNA of the 30S subunit forming part of bridges B6 and B8 | gene |
+| 2 | Aerococcus christensenii |WP_060776924.1	 | 2541.41 | This protein is located at the 30S-50S ribosomal subunit interface. In the 70S ribosome it has been modeled to make two contacts with the 16S rRNA of the 30S subunit forming part of bridges B6 and B8 | gene |
+| 2 | Aerococcus urina | WP_013669011.1	 | 1469.17 | This protein is located at the 30S-50S ribosomal subunit interface. In the 70S ribosome it has been modeled to make two contacts with the 16S rRNA of the 30S subunit forming part of bridges B6 and B8 | promotor |
+| 2 | Aerococcus urinaehominis | WP_067977867.1 | 50027.46 | This protein is located at the 30S-50S ribosomal subunit interface. In the 70S ribosome it has been modeled to make two contacts with the 16S rRNA of the 30S subunit forming part of bridges B6 and B8 | gene |
+| 2 | Aerococcus viridans | WP_004262406.1 | 2756.04 | This protein is located at the 30S-50S ribosomal subunit interface. In the 70S ribosome it has been modeled to make two contacts with the 16S rRNA of the 30S subunit forming part of bridges B6 and B8 | gene |
+
+
+Cluster 3  
+Количество генов в класетере -- 5
+| cluster| Species | Gene | Z-score  | function | position |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| 3 | Aerococcus urinaeequi | WP_016897452.1 | 612.38 | Catalytic activity | gene |
+| 3 | Aerococcus christensenii | WP_060776269.1	 | 2143.65 | Catalytic activity | promoter |
+| 3 | Aerococcus urina | WP_060778094.1	 | 785.56 | Catalytic activity | gene |
+| 3 | Aerococcus urinaehominis | WP_067977500.1 | 9653.84 | Catalytic activity | promoter |
+| 3 | Aerococcus viridans | WP_003143086.1 | 785.56 | Catalytic activity | gene |
+
+
+Cluster 4  
+Количество генов в класетере -- 5
+| cluster| Species | Gene | Z-score  | function | position |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| 3 | Aerococcus urinaeequi | WP_016897946.1 | 785.56 | Clostridiales bacterium BAD-6 DNA-binding protein WhiA | promoter |
+| 3 | Aerococcus christensenii | WP_060777439.1	 | 8485.75 | Clostridiales bacterium BAD-6 DNA-binding protein WhiA | gene |
+| 3 | Aerococcus urina | WP_060778796.1 | 2752.44 | Clostridiales bacterium BAD-6 DNA-binding protein WhiA | gene |
+| 3 | Aerococcus urinaehominis |WP_067979171.1 | 13713.99 | Clostridiales bacterium BAD-6 DNA-binding protein WhiA | gene |
+| 3 | Aerococcus viridans | WP_003143355.1 | 1647.56 | Clostridiales bacterium BAD-6 DNA-binding protein WhiA | gene |
