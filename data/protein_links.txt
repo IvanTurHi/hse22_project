@@ -1,0 +1,5 @@
+ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/543/105/GCF_001543105.1_ASM154310v1/GCF_001543105.1_ASM154310v1_protein.faa.gz
+ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/543/175/GCF_001543175.1_ASM154317v1/GCF_001543175.1_ASM154317v1_protein.faa.gz
+ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/518/795/GCF_001518795.1_ASM151879v1/GCF_001518795.1_ASM151879v1_protein.faa.gz
+ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/543/245/GCF_001543245.1_ASM154324v1/GCF_001543245.1_ASM154324v1_protein.faa.gz
+ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/543/285/GCF_001543285.1_ASM154328v1/GCF_001543285.1_ASM154328v1_protein.faa.gz
